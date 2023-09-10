@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 https://ethaninmel.substack.com/
+
 https://www.fullstacklabs.org/
 
 <!--
